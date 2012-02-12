@@ -1,3 +1,7 @@
+# Ruby on Rails Tutorial : My application
+
+# This is the first application- Learn Rails by example
+# Naveen Krishnan
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
